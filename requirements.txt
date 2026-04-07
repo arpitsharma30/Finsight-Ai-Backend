@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+xgboost
+scikit-learn
+pandas
+yfinance
+requests
+python-dotenv
+groq
+pydantic
